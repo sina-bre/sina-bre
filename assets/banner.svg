@@ -42,7 +42,7 @@
     <clipPath id="frame"><rect width="1000" height="430" rx="14"/></clipPath>
     <!-- one prompt, reused on every line -->
     <g id="prompt" class="mono" font-size="15">
-      <text textLength="144" lengthAdjust="spacing"><tspan fill="#ff5b2e">sina@mashhad</tspan><tspan fill="#55534f"> ~ </tspan><tspan fill="#f3f0ea">$</tspan></text>
+      <text textLength="108" lengthAdjust="spacing"><tspan fill="#ff5b2e">sina@dev</tspan><tspan fill="#55534f"> ~ </tspan><tspan fill="#f3f0ea">$</tspan></text>
     </g>
   </defs>
 
@@ -57,13 +57,13 @@
     <circle cx="26" cy="22" r="6" fill="#ff5b2e"/>
     <circle cx="46" cy="22" r="6" fill="#232326"/>
     <circle cx="66" cy="22" r="6" fill="#232326"/>
-    <text x="500" y="27" text-anchor="middle" class="mono" font-size="13" fill="#8f8b84">sina@mashhad: ~/portfolio — zsh</text>
+    <text x="500" y="27" text-anchor="middle" class="mono" font-size="13" fill="#8f8b84">sina@dev: ~/portfolio — zsh</text>
     <text x="974" y="27" text-anchor="end" class="mono" font-size="12" fill="#55534f">IRST · UTC+3:30</text>
 
     <!-- $ whoami -->
     <use href="#prompt" x="40" y="88"/>
-    <text x="192" y="88" class="mono" font-size="15" fill="#f3f0ea" textLength="54">whoami</text>
-    <rect class="cover t1" x="190" y="72" width="58" height="22"/>
+    <text x="156" y="88" class="mono" font-size="15" fill="#f3f0ea" textLength="54">whoami</text>
+    <rect class="cover t1" x="154" y="72" width="58" height="22"/>
 
     <text x="38" y="152" class="sans show d1" font-size="60" font-weight="600" letter-spacing="-2.6" fill="#f3f0ea">Sina Baradaran</text>
     <text x="40" y="186" class="mono show d2" font-size="16" fill="#8f8b84"><tspan fill="#ff5b2e">Front-End Developer</tspan> @ Yekta Group · Mashhad, Iran</text>
@@ -82,22 +82,22 @@
 
     <!-- $ cat stack.txt -->
     <g class="show d3"><use href="#prompt" x="40" y="236"/></g>
-    <text x="192" y="236" class="mono" font-size="15" fill="#f3f0ea" textLength="117">cat stack.txt</text>
-    <rect class="cover t2" x="190" y="220" width="121" height="22"/>
+    <text x="156" y="236" class="mono" font-size="15" fill="#f3f0ea" textLength="117">cat stack.txt</text>
+    <rect class="cover t2" x="154" y="220" width="121" height="22"/>
 
     <text x="40" y="266" class="mono show d4" font-size="15" fill="#f3f0ea" xml:space="preserve">react  next.js  typescript  tailwind  tanstack-query  <tspan fill="#8f8b84">node.js  express  sql-server</tspan></text>
 
     <!-- $ open portfolio -->
     <g class="show d5"><use href="#prompt" x="40" y="316"/></g>
-    <text x="192" y="316" class="mono" font-size="15" fill="#f3f0ea" textLength="324">open dev.sinabaradaran01.workers.dev</text>
-    <rect class="cover t3" x="190" y="300" width="328" height="22"/>
+    <text x="156" y="316" class="mono" font-size="15" fill="#f3f0ea" textLength="324">open dev.sinabaradaran01.workers.dev</text>
+    <rect class="cover t3" x="154" y="300" width="328" height="22"/>
 
     <text x="40" y="346" class="mono show d6" font-size="15" fill="#8f8b84"><tspan fill="#ff5b2e">✓</tspan> portfolio · resume · contact — all in one place</text>
 
     <!-- idle prompt -->
     <g class="show d7">
       <use href="#prompt" x="40" y="396"/>
-      <rect class="blink" x="194" y="382" width="9" height="18" fill="#ff5b2e"/>
+      <rect class="blink" x="158" y="382" width="9" height="18" fill="#ff5b2e"/>
     </g>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://dev.sinabaradaran01.workers.dev"><img src="./assets/banner.svg" alt="sina@mashhad ~ $ whoami — Sina Baradaran, Front-End Developer" width="100%" /></a>
+<a href="https://dev.sinabaradaran01.workers.dev"><img src="./assets/banner.svg" alt="sina@dev ~ $ whoami — Sina Baradaran, Front-End Developer" width="100%" /></a>
 
 <br /><br />
 
@@ -107,7 +107,7 @@ running **four venues across Mashhad and Tehran**.
 ### `$ ls -la ~/work`
 
 ```console
-sina@mashhad ~ $ ls -la ~/work
+sina@dev ~ $ ls -la ~/work
 drwxr-xr-x  heliumpark.ir          Next.js 16 · React 19 · Tailwind v4 · TanStack Query    booking, VIP, events, OTP, payment
 drwxr-xr-x  erp.heliumpark.ir      React 19 · HeroUI · TanStack Table · ApexCharts          Yekta Panel · invoicing & reservations
 drwxr-xr-x  yekta-group.com        Next.js 15 · GSAP · Framer Motion · Swiper               corporate platform
@@ -207,12 +207,12 @@ Four things this system taught me that no tutorial did.
 ---
 
 ```console
-sina@mashhad ~ $ contact --open-to-work
+sina@dev ~ $ contact --open-to-work
 
   portfolio  https://dev.sinabaradaran01.workers.dev
   email      sinabaradaran01@gmail.com
   linkedin   linkedin.com/in/sina-baradaran
   status     open to interesting engineering work
 
-sina@mashhad ~ $ █
+sina@dev ~ $ █
 ```
