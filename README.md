@@ -4,13 +4,14 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=A8C4E0&center=true&vCenter=true&width=700&lines=%24+whoami;Sina+Baradaran+%E2%80%94+Software+Developer%2C+Mashhad;%24+cat+~%2F.focus;Frontend+deep.+Backend+when+it's+in+the+way.;%24+uptime;4+years+shipping+to+production." alt="terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=FF5B2E&center=true&vCenter=true&width=700&lines=%24+whoami;Sina+Baradaran+%E2%80%94+Software+Developer%2C+Mashhad;%24+cat+~%2F.focus;Frontend+deep.+Backend+when+it's+in+the+way.;%24+uptime;4+years+shipping+to+production." alt="terminal" />
 
-<a href="https://www.linkedin.com/in/sina-baradaran/"><img src="https://img.shields.io/badge/LinkedIn-0E3A6E?style=flat-square&logo=linkedin&logoColor=F1ECE1&labelColor=0E3A6E" alt="LinkedIn" /></a>
-<a href="mailto:sinabaradaran01@gmail.com"><img src="https://img.shields.io/badge/Email-0E3A6E?style=flat-square&logo=gmail&logoColor=F1ECE1&labelColor=0E3A6E" alt="Email" /></a>
-<a href="https://heliumpark.ir"><img src="https://img.shields.io/badge/heliumpark.ir-0E3A6E?style=flat-square&logo=googlechrome&logoColor=F1ECE1&labelColor=0E3A6E" alt="heliumpark.ir" /></a>
-<a href="https://yekta-group.com"><img src="https://img.shields.io/badge/yekta--group.com-0E3A6E?style=flat-square&logo=googlechrome&logoColor=F1ECE1&labelColor=0E3A6E" alt="yekta-group.com" /></a>
-<img src="https://komarev.com/ghpvc/?username=sina-bre&style=flat-square&color=0E3A6E&label=visitors" alt="visitors" />
+<a href="https://www.linkedin.com/in/sina-baradaran/"><img src="https://img.shields.io/badge/LinkedIn-131315?style=flat-square&logo=linkedin&logoColor=FF5B2E&labelColor=131315" alt="LinkedIn" /></a>
+<a href="mailto:sinabaradaran01@gmail.com"><img src="https://img.shields.io/badge/Email-131315?style=flat-square&logo=gmail&logoColor=FF5B2E&labelColor=131315" alt="Email" /></a>
+<a href="https://heliumpark.ir"><img src="https://img.shields.io/badge/heliumpark.ir-131315?style=flat-square&logo=googlechrome&logoColor=FF5B2E&labelColor=131315" alt="heliumpark.ir" /></a>
+<a href="https://erp.heliumpark.ir"><img src="https://img.shields.io/badge/erp.heliumpark.ir-131315?style=flat-square&logo=googlechrome&logoColor=FF5B2E&labelColor=131315" alt="erp.heliumpark.ir" /></a>
+<a href="https://yekta-group.com"><img src="https://img.shields.io/badge/yekta--group.com-131315?style=flat-square&logo=googlechrome&logoColor=FF5B2E&labelColor=131315" alt="yekta-group.com" /></a>
+<img src="https://komarev.com/ghpvc/?username=sina-bre&style=flat-square&color=FF5B2E&label=visitors" alt="visitors" />
 
 </div>
 
@@ -79,6 +80,7 @@ running **four venues across Mashhad and Tehran**.
 │  React 19 · RSC  │  │  GSAP · Framer   │   │  TanStack Query + Table     │
 │  Tailwind v4     │  │  Swiper          │   │  131 screens · 10 role      │
 │  TanStack Query  │  │                  │   │  scoped workspaces          │
+│                  │  │                  │   │  live: erp.heliumpark.ir    │
 └────────┬─────────┘  └────────┬─────────┘   └──────────────┬──────────────┘
          │                     │                            │
          └─────────────────────┴──────────┬─────────────────┘
@@ -103,7 +105,7 @@ running **four venues across Mashhad and Tehran**.
 | **[heliumpark.ir](https://heliumpark.ir)** | Next.js 16, React 19, TypeScript, Tailwind v4, TanStack Query, Zod | Booking, VIP membership, events, OTP auth, online payment |
 | **[yekta-group.com](https://yekta-group.com)** | Next.js 15, GSAP, Framer Motion, Swiper, Formik | Corporate platform |
 | **Helium Admin** | React, CoreUI, Redux, TanStack Query, XLSX, QZ Tray | 76 screens · park operations |
-| **Yekta Panel** | React 19, Tailwind, HeroUI, TanStack Table, ApexCharts | 55 screens · invoicing & reservations |
+| **[Yekta Panel](https://erp.heliumpark.ir)** | React 19, Tailwind, HeroUI, TanStack Table, ApexCharts | 55 screens · invoicing & reservations |
 | **Yekta Task Panel API** | Node.js, Express, TypeScript, SQL Server, SSE, Swagger | 42 modules · 258 endpoints |
 | **Admin & Experts CRM** | React, TypeScript, GraphQL | Asiatech |
 | **Salon reservation system** | Next.js, Tailwind, shadcn/ui | Asiatech |
@@ -185,8 +187,8 @@ Four things this system taught me that no tutorial did.
 ### `$ gh api /users/sina-bre/stats`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sina-bre&show_icons=true&hide_border=true&bg_color=0E3A6E&title_color=F1ECE1&icon_color=A8C4E0&text_color=D4E2F0&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-bre&layout=compact&hide_border=true&bg_color=0E3A6E&title_color=F1ECE1&text_color=D4E2F0&langs_count=8" alt="top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sina-bre&show_icons=true&hide_border=true&bg_color=0B0B0C&title_color=FF5B2E&icon_color=FF5B2E&text_color=F3F0EA&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-bre&layout=compact&hide_border=true&bg_color=0B0B0C&title_color=FF5B2E&text_color=F3F0EA&langs_count=8" alt="top languages" />
   <img src="https://raw.githubusercontent.com/sina-bre/sina-bre/output/snake.svg" alt="contribution snake" width="98%" />
 </div>
 
