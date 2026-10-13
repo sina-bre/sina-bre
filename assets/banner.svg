@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-labelledby="ttl dsc">
+  <title id="ttl">Sina Baradaran - Software Developer</title>
+  <desc id="dsc">A technical blueprint sheet with biographical notes and properties for Sina Baradaran, Software Developer, Mashhad, Iran.</desc>
+
+  <style>
+    .live   { animation: livePulse 12s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .scribe { stroke-dasharray: 460; stroke-dashoffset: 460; animation: scribeDraw 12s ease-out infinite; }
+    .lead   { stroke-dasharray: 180; stroke-dashoffset: 180; animation: leadDraw 12s ease-out infinite; }
+    .ink    { opacity: 0; animation: inkIn 12s ease-out infinite; }
+    .n1 { animation-delay: .35s; } .n2 { animation-delay: .70s; }
+    .n3 { animation-delay: 1.05s; } .n4 { animation-delay: 1.40s; }
+    .p1 { animation-delay: .60s; } .p2 { animation-delay: .90s; }
+    .p3 { animation-delay: 1.20s; } .p4 { animation-delay: 1.50s; }
+
+    @keyframes livePulse { 0%, 60%, 100% { opacity: .85; } 70% { opacity: .25; } }
+    @keyframes scribeDraw {
+      0% { stroke-dashoffset: 460; }
+      26%, 90% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: 460; }
+    }
+    @keyframes leadDraw {
+      0%, 14% { stroke-dashoffset: 180; }
+      34%, 90% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: 180; }
+    }
+    @keyframes inkIn {
+      0% { opacity: 0; }
+      18%, 92% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0e3a6e" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#0e3a6e" stop-opacity="1"/>
+    </linearGradient>
+    <pattern id="grid" x="24" y="24" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#7d9fc4" stroke-width="0.5" stroke-opacity="0.22"/>
+    </pattern>
+    <pattern id="gridMajor" x="24" y="24" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M 100 0 L 0 0 0 100" fill="none" stroke="#7d9fc4" stroke-width="0.75" stroke-opacity="0.32"/>
+    </pattern>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#paper)" rx="4" ry="4"/>
+
+  <!-- grid -->
+  <rect x="24" y="24" width="952" height="352" fill="url(#grid)"/>
+  <rect x="24" y="24" width="952" height="352" fill="url(#gridMajor)"/>
+
+  <!-- sheet border + registration marks -->
+  <rect x="24" y="24" width="952" height="352" fill="none" stroke="#f1ece1" stroke-width="1" stroke-opacity="0.7"/>
+  <g stroke="#f1ece1" stroke-width="1">
+    <line x1="19" y1="24"  x2="29" y2="24"/>   <line x1="24" y1="19"  x2="24" y2="29"/>
+    <line x1="971" y1="24" x2="981" y2="24"/>  <line x1="976" y1="19" x2="976" y2="29"/>
+    <line x1="19" y1="376" x2="29" y2="376"/>  <line x1="24" y1="371" x2="24" y2="381"/>
+    <line x1="971" y1="376" x2="981" y2="376"/><line x1="976" y1="371" x2="976" y2="381"/>
+  </g>
+
+  <!-- top strip -->
+  <text x="36" y="40" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">FIG. 01    BIOGRAPHICAL DATA</text>
+  <g transform="translate(964 36)">
+    <text text-anchor="end" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="2">SHEET 01 / 01</text>
+    <circle class="live" cx="6" cy="-3" r="2" fill="#ffffff" opacity="0.85"/>
+  </g>
+  <line x1="32" y1="48" x2="968" y2="48" stroke="#7d9fc4" stroke-width="0.75" stroke-opacity="0.4"/>
+
+  <!-- drawn title -->
+  <text class="ink" x="36" y="100" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="40" font-weight="700" letter-spacing="4">SINA BARADARAN</text>
+  <line class="scribe" x1="36" y1="116" x2="492" y2="116" stroke="#f1ece1" stroke-width="1.5" stroke-opacity="0.85"/>
+  <text class="ink n1" x="36" y="140" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="11.5" letter-spacing="3">SOFTWARE DEVELOPER &#183; MASHHAD, IRAN &#183; EST. 2022</text>
+
+  <!-- leader line to properties -->
+  <path class="lead" d="M 500 116 L 596 116 L 596 158" fill="none" stroke="#7d9fc4" stroke-width="0.75" stroke-opacity="0.5"/>
+
+  <!-- NOTES panel -->
+  <g>
+    <rect x="36" y="162" width="544" height="150" fill="none" stroke="#f1ece1" stroke-width="1" stroke-opacity="0.7"/>
+    <rect x="48" y="155" width="53" height="14" fill="#0e3a6e" stroke="#f1ece1" stroke-width="1" stroke-opacity="0.7"/>
+    <text x="74.5" y="165" text-anchor="middle" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="9" letter-spacing="1.4">NOTES</text>
+
+    <g class="ink n1">
+      <text x="52" y="192" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1">01</text>
+      <text x="80" y="192" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="12.5" letter-spacing="0.4">Owns the frontend of two live platforms at Yekta</text>
+    </g>
+    <g class="ink n2">
+      <text x="52" y="222" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1">02</text>
+      <text x="80" y="222" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="12.5" letter-spacing="0.4">Group, serving four venues across two cities.</text>
+    </g>
+    <g class="ink n3">
+      <text x="52" y="252" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1">03</text>
+      <text x="80" y="252" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="12.5" letter-spacing="0.4">Writes the API when the API is what's in the way.</text>
+    </g>
+    <g class="ink n4">
+      <text x="52" y="282" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1">04</text>
+      <text x="80" y="282" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="12.5" letter-spacing="0.4">Measures before optimising. Every time.</text>
+    </g>
+  </g>
+
+  <!-- PROPERTIES panel -->
+  <g>
+    <rect x="604" y="162" width="360" height="150" fill="none" stroke="#f1ece1" stroke-width="1" stroke-opacity="0.7"/>
+    <rect x="616" y="155" width="88" height="14" fill="#0e3a6e" stroke="#f1ece1" stroke-width="1" stroke-opacity="0.7"/>
+    <text x="660" y="165" text-anchor="middle" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="9" letter-spacing="1.4">PROPERTIES</text>
+
+    <g class="ink p1">
+      <text x="616" y="196" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">ROLE</text>
+      <text x="700" y="196" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="11.5" letter-spacing="1">SOFTWARE DEVELOPER</text>
+    </g>
+    <line x1="612" y1="208" x2="956" y2="208" stroke="#7d9fc4" stroke-width="0.5" stroke-opacity="0.4"/>
+    <g class="ink p2">
+      <text x="616" y="231" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">ORG</text>
+      <text x="700" y="231" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="11.5" letter-spacing="1">YEKTA GROUP</text>
+    </g>
+    <line x1="612" y1="243" x2="956" y2="243" stroke="#7d9fc4" stroke-width="0.5" stroke-opacity="0.4"/>
+    <g class="ink p3">
+      <text x="616" y="266" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">LOC</text>
+      <text x="700" y="266" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="11.5" letter-spacing="1">MASHHAD, IRAN</text>
+    </g>
+    <line x1="612" y1="278" x2="956" y2="278" stroke="#7d9fc4" stroke-width="0.5" stroke-opacity="0.4"/>
+    <g class="ink p4">
+      <text x="616" y="301" fill="#7d9fc4" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.4">STACK</text>
+      <text x="700" y="301" fill="#f1ece1" font-family="ui-monospace, monospace" font-size="11.5" letter-spacing="1">REACT &#183; NEXT &#183; NODE</text>
+    </g>
+    <line x1="692" y1="178" x2="692" y2="312" stroke="#7d9fc4" stroke-width="0.5" stroke-opacity="0.35"/>
+  </g>
+
+  <!-- title block -->
+  <g font-family="ui-monospace, monospace">
+    <g>
+      <rect x="24" y="336" width="190" height="40" fill="none" stroke="#7d9fc4" stroke-width="1" stroke-opacity="0.55"/>
+      <text x="32" y="348" fill="#7d9fc4" font-size="8" letter-spacing="1.2">DRAWN BY</text>
+      <text x="32" y="368" fill="#f1ece1" font-size="11" letter-spacing="1">S. BARADARAN</text>
+    </g>
+    <g>
+      <rect x="214" y="336" width="190" height="40" fill="none" stroke="#7d9fc4" stroke-width="1" stroke-opacity="0.55"/>
+      <text x="222" y="348" fill="#7d9fc4" font-size="8" letter-spacing="1.2">DISCIPLINE</text>
+      <text x="222" y="368" fill="#f1ece1" font-size="11" letter-spacing="1">WEB / FULL-STACK</text>
+    </g>
+    <g>
+      <rect x="404" y="336" width="190" height="40" fill="none" stroke="#7d9fc4" stroke-width="1" stroke-opacity="0.55"/>
+      <text x="412" y="348" fill="#7d9fc4" font-size="8" letter-spacing="1.2">SCALE</text>
+      <text x="412" y="368" fill="#f1ece1" font-size="11" letter-spacing="1">1:1</text>
+    </g>
+    <g>
+      <rect x="594" y="336" width="190" height="40" fill="none" stroke="#7d9fc4" stroke-width="1" stroke-opacity="0.55"/>
+      <text x="602" y="348" fill="#7d9fc4" font-size="8" letter-spacing="1.2">REV</text>
+      <text x="602" y="368" fill="#f1ece1" font-size="11" letter-spacing="1">4.0</text>
+    </g>
+    <g>
+      <rect x="784" y="336" width="192" height="40" fill="none" stroke="#7d9fc4" stroke-width="1" stroke-opacity="0.55"/>
+      <text x="792" y="348" fill="#7d9fc4" font-size="8" letter-spacing="1.2">STATUS</text>
+      <text x="792" y="368" fill="#f1ece1" font-size="11" letter-spacing="1">OPEN TO WORK</text>
+    </g>
+  </g>
+</svg>
