@@ -21,7 +21,8 @@ jobs:
         with:
           github_user_name: sina-bre
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#f3f0ea&color_dots=#161618,#3a1a10,#6e2a14,#b8401b,#ff5b2e
+            dist/snake.svg?palette=github-light&color_snake=#141312&color_dots=#ebe7df,#ffd3c2,#ffa685,#f57347,#e8461b
+            dist/snake-dark.svg?palette=github-dark&color_snake=#f3f0ea&color_dots=#161618,#3a1a10,#6e2a14,#b8401b,#ff5b2e
 
       - name: Push it to the output branch
         uses: crazy-max/ghaction-github-pages@v4

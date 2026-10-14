@@ -1,18 +1,18 @@
 <div align="center">
 
-<a href="https://dev.sinabaradaran01.workers.dev"><img src="./assets/banner.svg" alt="sina@dev ~ $ whoami — Sina Baradaran, Front-End Developer" width="100%" /></a>
+<a href="https://dev.sinabaradaran01.workers.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" /><img src="./assets/banner-dark.svg" alt="sina@dev ~ $ whoami — Sina Baradaran, Front-End Developer" width="100%" /></picture></a>
 
 <br /><br />
 
-<a href="https://dev.sinabaradaran01.workers.dev"><img src="https://img.shields.io/badge/portfolio-dev.sinabaradaran01.workers.dev-131315?style=flat-square&logo=cloudflare&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/sina-baradaran/"><img src="https://img.shields.io/badge/linkedin-sina--baradaran-131315?style=flat-square&logo=linkedin&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" alt="LinkedIn" /></a>
-<a href="mailto:sinabaradaran01@gmail.com"><img src="https://img.shields.io/badge/email-sinabaradaran01-131315?style=flat-square&logo=gmail&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" alt="Email" /></a>
-<a href="https://dev.sinabaradaran01.workers.dev/sina-baradaran-resume.pdf"><img src="https://img.shields.io/badge/resume-pdf-131315?style=flat-square&logo=readthedocs&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" alt="Resume" /></a>
+<a href="https://dev.sinabaradaran01.workers.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/portfolio-dev.sinabaradaran01.workers.dev-131315?style=flat-square&logo=cloudflare&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/portfolio-dev.sinabaradaran01.workers.dev-FAF8F4?style=flat-square&logo=cloudflare&logoColor=E8461B&labelColor=F0ECE4&color=FAF8F4" /><img src="https://img.shields.io/badge/portfolio-dev.sinabaradaran01.workers.dev-131315?style=flat-square&logo=cloudflare&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" alt="Portfolio" /></picture></a>
+<a href="https://www.linkedin.com/in/sina-baradaran/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-sina--baradaran-131315?style=flat-square&logo=linkedin&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/linkedin-sina--baradaran-FAF8F4?style=flat-square&logo=linkedin&logoColor=E8461B&labelColor=F0ECE4&color=FAF8F4" /><img src="https://img.shields.io/badge/linkedin-sina--baradaran-131315?style=flat-square&logo=linkedin&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" alt="LinkedIn" /></picture></a>
+<a href="mailto:sinabaradaran01@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/email-sinabaradaran01-131315?style=flat-square&logo=gmail&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/email-sinabaradaran01-FAF8F4?style=flat-square&logo=gmail&logoColor=E8461B&labelColor=F0ECE4&color=FAF8F4" /><img src="https://img.shields.io/badge/email-sinabaradaran01-131315?style=flat-square&logo=gmail&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" alt="Email" /></picture></a>
+<a href="https://dev.sinabaradaran01.workers.dev/sina-baradaran-resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/resume-pdf-131315?style=flat-square&logo=readthedocs&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/resume-pdf-FAF8F4?style=flat-square&logo=readthedocs&logoColor=E8461B&labelColor=F0ECE4&color=FAF8F4" /><img src="https://img.shields.io/badge/resume-pdf-131315?style=flat-square&logo=readthedocs&logoColor=FF5B2E&labelColor=0B0B0C&color=131315" alt="Resume" /></picture></a>
 <img src="https://komarev.com/ghpvc/?username=sina-bre&style=flat-square&color=FF5B2E&label=visitors" alt="visitors" />
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=FF5B2E&center=true&vCenter=true&width=720&lines=%24+cat+~%2F.focus;Frontend+deep.+Backend+when+it's+in+the+way.;%24+uptime;3%2B+years+shipping+to+production.;%24+git+log+--author%3Dsina+%7C+wc+-l;Still+counting." alt="$ cat ~/.focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=E8461B&center=true&vCenter=true&width=720&lines=%24+cat+~%2F.focus;Frontend+deep.+Backend+when+it's+in+the+way.;%24+uptime;3%2B+years+shipping+to+production.;%24+git+log+--author%3Dsina+%7C+wc+-l;Still+counting." alt="$ cat ~/.focus" />
 
 </div>
 
@@ -39,9 +39,9 @@ const sina = {
 ### `$ cat stack.json`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,sass,redux,vue,nuxtjs,vite&theme=dark&perline=12" alt="languages & frontend" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mssql,graphql,prisma,supabase,docker,nginx,jest,webpack,babel,pnpm&theme=dark&perline=12" alt="backend & build" />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode,npm,materialui,bootstrap,cs,dotnet,eslint&theme=dark&perline=12" alt="tooling" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,sass,redux,vue,nuxtjs,vite&theme=dark&perline=12" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,sass,redux,vue,nuxtjs,vite&theme=light&perline=12" /><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,sass,redux,vue,nuxtjs,vite&theme=dark&perline=12" alt="languages & frontend" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mssql,graphql,prisma,supabase,docker,nginx,jest,webpack,babel,pnpm&theme=dark&perline=12" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,mssql,graphql,prisma,supabase,docker,nginx,jest,webpack,babel,pnpm&theme=light&perline=12" /><img src="https://skillicons.dev/icons?i=nodejs,express,mssql,graphql,prisma,supabase,docker,nginx,jest,webpack,babel,pnpm&theme=dark&perline=12" alt="backend & build" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode,npm,materialui,bootstrap,cs,dotnet,eslint&theme=dark&perline=12" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode,npm,materialui,bootstrap,cs,dotnet,eslint&theme=light&perline=12" /><img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,vscode,npm,materialui,bootstrap,cs,dotnet,eslint&theme=dark&perline=12" alt="tooling" /></picture>
 </div>
 
 <details>
@@ -73,7 +73,7 @@ const sina = {
 
 ### `$ tree ~/system`
 
-Two public platforms, two internal panels and one API, for an entertainment group
+Two public platforms, three internal panels and one API, for an entertainment group
 running **four venues across Mashhad and Tehran**.
 
 ```text
@@ -87,6 +87,8 @@ running **four venues across Mashhad and Tehran**.
 │  Tailwind v4     │  │  Swiper          │   │  131 screens · 10 role      │
 │  TanStack Query  │  │                  │   │  scoped workspaces          │
 │                  │  │                  │   │  live: erp.heliumpark.ir    │
+│                  │  │                  │   │  Ezi · workspace ERP,       │
+│                  │  │                  │   │  archive & messaging        │
 └────────┬─────────┘  └────────┬─────────┘   └──────────────┬──────────────┘
          │                     │                            │
          └─────────────────────┴──────────┬─────────────────┘
@@ -104,6 +106,19 @@ running **four venues across Mashhad and Tehran**.
 
 ---
 
+### `$ curl -I ~/live`
+
+| Address | What it is | Stack |
+|---|---|---|
+| [**heliumpark.ir**](https://heliumpark.ir) | Booking platform for four entertainment venues | Next.js 16 · React 19 · Tailwind v4 · TanStack Query |
+| [**erp.heliumpark.ir**](https://erp.heliumpark.ir) | Yekta Panel, the group ERP: invoicing & reservations | React 19 · HeroUI · TanStack Table · ApexCharts |
+| [**yekta-group.com**](https://yekta-group.com) | Corporate platform of Yekta Group | Next.js 15 · GSAP · Framer Motion |
+| [**novin.one**](https://novin.one) | Online inquiry platform: 23 banking, vehicle & government services | Next.js 15 · TanStack Query · Zustand · NextAuth |
+| [**frontend-handbook**](https://frontend-handbook.sinabaradaran01.workers.dev/fa/react/advanced) | Bilingual frontend interview handbook with live examples | React 19 · Vite · MDX · Tailwind v4 |
+| [**dev.sinabaradaran01.workers.dev**](https://dev.sinabaradaran01.workers.dev) | This portfolio | React 19 · TypeScript · Tailwind v4 |
+
+---
+
 ### `$ ls -la ~/work`
 
 ```console
@@ -111,6 +126,9 @@ sina@dev ~ $ ls -la ~/work
 drwxr-xr-x  heliumpark.ir          Next.js 16 · React 19 · Tailwind v4 · TanStack Query    booking, VIP, events, OTP, payment
 drwxr-xr-x  erp.heliumpark.ir      React 19 · HeroUI · TanStack Table · ApexCharts          Yekta Panel · invoicing & reservations
 drwxr-xr-x  yekta-group.com        Next.js 15 · GSAP · Framer Motion · Swiper               corporate platform
+drwxr-xr-x  novin.one              Next.js 15 · TanStack Query · Zustand · NextAuth         23 inquiry services · Novin
+drwxr-x---  ezi                    React 19 · Vite · TanStack Query · React Virtuoso        workspace ERP · archive & messaging
+drwxr-x---  yektafa                Next.js 15 · Radix · Zod · SQL Server                    brand site + its own admin
 drwxr-x---  helium-admin           React · CoreUI · Redux · TanStack Query · QZ Tray        76 screens · park operations
 drwxr-x---  yekta-task-panel-api   Node.js · Express · TypeScript · SQL Server · SSE        42 modules · 258 endpoints
 drwxr-x---  admin-experts-crm      React · TypeScript · GraphQL                             Asiatech
@@ -121,7 +139,7 @@ drwxr-x---  nasim-rezvan-pwa       React · PWA · real-time audio              
 drwxr-x---  quran-app              React · TypeScript                                       Farawin
 ```
 
-<sub>`drwxr-xr-x` is public and live: [heliumpark.ir](https://heliumpark.ir) · [erp.heliumpark.ir](https://erp.heliumpark.ir) · [yekta-group.com](https://yekta-group.com). The rest are internal or client work. Case studies: [dev.sinabaradaran01.workers.dev/works](https://dev.sinabaradaran01.workers.dev/works)</sub>
+<sub>`drwxr-xr-x` is public and live; the rest are internal or client work. Case studies: [dev.sinabaradaran01.workers.dev/works](https://dev.sinabaradaran01.workers.dev/works)</sub>
 
 ---
 
@@ -130,7 +148,7 @@ drwxr-x---  quran-app              React · TypeScript                          
 | Repo | What it is |
 |---|---|
 | [**portfolio**](https://github.com/sina-bre/portfolio) | This profile's website: React 19, TypeScript, Tailwind v4, CSS scroll-driven motion |
-| [**front-end-hand-book**](https://github.com/sina-bre/front-end-hand-book) | Bilingual (Persian/English) frontend interview handbook in MDX, with live editable examples |
+| [**front-end-hand-book**](https://github.com/sina-bre/front-end-hand-book) | Bilingual (Persian/English) frontend interview handbook in MDX, with live editable examples · [read it](https://frontend-handbook.sinabaradaran01.workers.dev/fa/react/advanced) |
 | [**next-template-app**](https://github.com/sina-bre/next-template-app) | My opinionated Next.js starting point |
 | [**turbo-repo-ecommerce-app**](https://github.com/sina-bre/turbo-repo-ecommerce-app) | Monorepo e-commerce with Turborepo |
 | [**quran-main-app**](https://github.com/sina-bre/quran-main-app) | Quran reader in React and TypeScript |
@@ -197,11 +215,11 @@ Four things this system taught me that no tutorial did.
 ### `$ gh api /users/sina-bre --stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sina-bre&show_icons=true&hide_border=false&border_color=232326&border_radius=10&bg_color=0B0B0C&title_color=FF5B2E&icon_color=FF5B2E&text_color=F3F0EA&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-bre&layout=compact&hide_border=false&border_color=232326&border_radius=10&bg_color=0B0B0C&title_color=FF5B2E&text_color=F3F0EA&langs_count=6&exclude_repo=object_tracking&hide=jupyter%20notebook,mdx,html,css,scss&size_weight=0.3&count_weight=0.7" alt="Most used languages" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sina-bre&show_icons=true&hide_border=false&border_color=232326&border_radius=10&bg_color=0B0B0C&title_color=FF5B2E&icon_color=FF5B2E&text_color=F3F0EA&include_all_commits=true&count_private=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sina-bre&show_icons=true&hide_border=false&border_color=E2DDD3&border_radius=10&bg_color=FAF8F4&title_color=E8461B&icon_color=E8461B&text_color=141312&include_all_commits=true&count_private=true" /><img src="https://github-readme-stats.vercel.app/api?username=sina-bre&show_icons=true&hide_border=false&border_color=232326&border_radius=10&bg_color=0B0B0C&title_color=FF5B2E&icon_color=FF5B2E&text_color=F3F0EA&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-bre&layout=compact&hide_border=false&border_color=232326&border_radius=10&bg_color=0B0B0C&title_color=FF5B2E&text_color=F3F0EA&langs_count=6&exclude_repo=object_tracking&hide=jupyter%20notebook,mdx,html,css,scss&size_weight=0.3&count_weight=0.7" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-bre&layout=compact&hide_border=false&border_color=E2DDD3&border_radius=10&bg_color=FAF8F4&title_color=E8461B&text_color=141312&langs_count=6&exclude_repo=object_tracking&hide=jupyter%20notebook,mdx,html,css,scss&size_weight=0.3&count_weight=0.7" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina-bre&layout=compact&hide_border=false&border_color=232326&border_radius=10&bg_color=0B0B0C&title_color=FF5B2E&text_color=F3F0EA&langs_count=6&exclude_repo=object_tracking&hide=jupyter%20notebook,mdx,html,css,scss&size_weight=0.3&count_weight=0.7" alt="Most used languages" height="165" /></picture>
   <br />
-  <img src="https://streak-stats.demolab.com?user=sina-bre&background=0B0B0C&border=232326&stroke=232326&ring=FF5B2E&fire=FF5B2E&currStreakNum=F3F0EA&sideNums=F3F0EA&currStreakLabel=FF5B2E&sideLabels=8F8B84&dates=55534F&border_radius=10" alt="Contribution streak" width="98%" />
-  <img src="https://raw.githubusercontent.com/sina-bre/sina-bre/output/snake.svg" alt="contribution snake" width="98%" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sina-bre&background=0B0B0C&border=232326&stroke=232326&ring=FF5B2E&fire=FF5B2E&currStreakNum=F3F0EA&sideNums=F3F0EA&currStreakLabel=FF5B2E&sideLabels=8F8B84&dates=55534F&border_radius=10" /><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sina-bre&background=FAF8F4&border=E2DDD3&stroke=E2DDD3&ring=E8461B&fire=E8461B&currStreakNum=141312&sideNums=141312&currStreakLabel=E8461B&sideLabels=6B6760&dates=9A958C&border_radius=10" /><img src="https://streak-stats.demolab.com?user=sina-bre&background=0B0B0C&border=232326&stroke=232326&ring=FF5B2E&fire=FF5B2E&currStreakNum=F3F0EA&sideNums=F3F0EA&currStreakLabel=FF5B2E&sideLabels=8F8B84&dates=55534F&border_radius=10" alt="Contribution streak" width="98%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sina-bre/sina-bre/output/snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sina-bre/sina-bre/output/snake.svg" /><img src="https://raw.githubusercontent.com/sina-bre/sina-bre/output/snake-dark.svg" alt="contribution snake" width="98%" /></picture>
 </div>
 
 ---
@@ -210,6 +228,7 @@ Four things this system taught me that no tutorial did.
 sina@dev ~ $ contact --open-to-work
 
   portfolio  https://dev.sinabaradaran01.workers.dev
+  handbook   https://frontend-handbook.sinabaradaran01.workers.dev
   email      sinabaradaran01@gmail.com
   linkedin   linkedin.com/in/sina-baradaran
   status     open to interesting engineering work
